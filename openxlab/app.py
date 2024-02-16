@@ -27,7 +27,7 @@ st.caption("🚀 A streamlit chatbot powered by InternLM2 QLora")
 
 # 定义模型路径
 
-model_id = 'JimmyMa99/BaJie-Chat'
+model_id = 'JimmyMa99/WuJing-Chat'
 
 mode_name_or_path = snapshot_download(model_id, revision='master')
 # mode_name_or_path='process_data/merged_models/zbj'
