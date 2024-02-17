@@ -108,7 +108,7 @@ streamlit run ./web_demo.py
 
 🔍 探索WuJing-Chat(Internlm-chat-7b)
 
-[![Static Badge](https://img.shields.io/badge/-gery?style=social&label=🤖%20ModelScope)](https://www.modelscope.cn/models/JimmyMa99/BaJie-Chat/summary)
+[![Static Badge](https://img.shields.io/badge/-gery?style=social&label=🤖%20ModelScope)](https://www.modelscope.cn/models/JimmyMa99/WuJing-Chat/summary)
 
 <hr>
 
