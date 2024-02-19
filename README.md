@@ -2,7 +2,7 @@
 
 ### 项目简介
 
-WuJing-Chat是一个基于《西游记》剧本中悟净的台词和语句，以及使用InternLM进行QLoRA微调得到的模仿沙悟净语气的聊天语言模型。用户可以通过模型与WuJing-Chat进行对话。
+悟净-Chat是一个基于《西游记》剧本中悟净的台词和语句，以及使用InternLM进行QLoRA微调得到的模仿沙悟净语气的聊天语言模型。用户可以通过模型与悟净-Chat进行对话。
 
 ### 设备要求
 
@@ -14,7 +14,7 @@ WuJing-Chat是一个基于《西游记》剧本中悟净的台词和语句，以
 ### 最佳实践
 
 <details>
-  <summary style="font-weight: bold; font-size: larger;">⚙️部署WuJing-Chat到Linux环境中</summary>
+  <summary style="font-weight: bold; font-size: larger;">⚙️部署悟净-Chatt到Linux环境中</summary>
 
 ```bash
 # git clone 本 repo 以及其submodules
