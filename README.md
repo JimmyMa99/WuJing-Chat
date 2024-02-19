@@ -67,7 +67,7 @@ streamlit run ./web_demo.py
 
 #### 预览
 
-![WuJing-Chat 截图](./asserts/chat-demo.png)
+![WuJing-Chat 截图](./assets/chat-demo.png)
 
 #### OpenXLab 链接
 
