@@ -1,5 +1,13 @@
 # WuJing-Chat
 
+<div align="center">
+
+<img src="assets/first_fig.webp" width="300"/>
+  <div>&nbsp;</div>
+  <div align="center">
+  </div>
+</div>
+
 ### 项目简介
 
 悟净-Chat是一个基于《西游记》剧本中悟净的台词和语句，以及使用InternLM进行QLoRA微调得到的模仿沙悟净语气的聊天语言模型。用户可以通过模型与悟净-Chat进行对话。
